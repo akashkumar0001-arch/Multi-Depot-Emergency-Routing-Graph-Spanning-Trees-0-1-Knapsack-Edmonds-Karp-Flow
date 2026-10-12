@@ -1,0 +1,6 @@
+{
+  "name": "Disaster Response Logistics & Algorithm Studio",
+  "description": "Multi-Depot Routing & Resource Allocation platform powered by DAA algorithms (MDVRP, Dijkstra, Kruskal, Fractional Knapsack, Max Flow) and AI situational intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
